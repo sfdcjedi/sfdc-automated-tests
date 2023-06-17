@@ -1,4 +1,4 @@
-# SFDC Cron Expressions
+# SFDC Automated Tests
 Automated running and reporting of Salesforce Apex test classes. 
 
 You can configure when to run the tests, who to send the report to, which tests to run and which not to run. 
