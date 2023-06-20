@@ -4,5 +4,17 @@
         <members>*</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>*</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomMetadata</name>
+    </types>
     <version>57.0</version>
 </Package>
